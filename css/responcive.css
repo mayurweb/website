@@ -1,0 +1,143 @@
+
+
+
+@media only screen and (max-width:1200px) {
+	.section{padding:0px;}
+	.tableft{width:100%;right:0px;}
+	.tableft2{width:100%;left:0px; padding:0px;}
+	.file{padding:15px 10px; width:250px;}
+	.navbar-expand-lg .navbar-nav .nav-link{margin:0px 10px;}
+	.file img{width:100%;}
+	
+}
+
+@media only screen and (max-width:991px) {
+	.banner { margin-right: 0px; margin-left: 0px; }
+	.CONTACT{margin-top:70px;}
+	.home{padding:0px 15px;}
+	.viewup{padding:50px 30px;}
+	.viewup img{width:100%; position:relative; right:0px; max-width:744px; margin:0 auto; }
+.promoteDiv .productsList .item { margin-bottom: 30px; }
+.promoteDiv .productsList .item.aboutContent { margin-bottom: 0px; }
+	.view2{padding:30px;}
+	.run{margin-top:0px;}
+	.macro2{font-size:29px; line-height: 36px; }
+	.div{padding:0px 0px;}
+	.section2{ float: right; position: absolute; right: 0px; top: 18px; z-index: 9;}
+	.navbar-nav .active>.nav-link::after{top:auto; bottom:0px; height: 2px;}
+	.navbar-nav .nav-link:after{top:auto; bottom:0px; height: 2px;}
+	body{padding:0px;}
+	.fouetr2{max-width:400px; margin:0 auto;}
+	.about{float: left;}
+	.bottomtop{padding-top:10px;}
+	.text{padding:30px;}
+	.textright{padding:30px;}
+	
+	.navbar-expand-lg>.container {  }
+	.navbar-expand-lg .navbar-nav .nav-link { line-height: normal; padding: 20px 0px; }
+	.CONTACT { margin-top: 0px; }
+	.dropdown>.dropdown-menu { width: 100%; }
+	
+	.dropdown .dropdown-menu li a { padding: 12px 15px; }
+	.navbar-expand-lg .navbar-nav .nav-link { padding: 15px 0px; }
+	.dropdown>.dropdown-menu { margin-top: 0px; }
+	
+	.file {width: 200px; }
+	.inMobileShow { margin-left: auto; display: block; }
+	
+	.item .container { min-height: 250px; }
+	.edit { height: 400px; }
+	
+	.footer { margin-right: 0px; margin-left: 0px; }
+	.item .container h1 { font-size: 45px;  }  
+	
+}
+
+@media only screen and (max-width:767px) {
+	.runup{padding:30px;}
+	/* .run{height:500px;} */
+	.tab{padding-bottom:20px;}
+	.right2{padding-bottom:0px;}
+	.bottomtop{padding:15px 0px;}
+	.file { width:195px; }
+	.file img{width:195px;}
+	.box{padding:30px;}
+	.tableft img{width:100%;}
+	.tableft2 img{width:100%;}
+	/* .inquiryBtn a{padding: 5px 70px;} */
+	.tabup{ padding: 0px 20px; max-width: 380px; margin:0 auto; margin-top:-278px !important;}
+	.viewup { padding: 35px 0px; } 
+	.item .container h1 { font-size: 28px;  }  
+	.item .container span { font-size:20px; padding: 0 15px; letter-spacing: 0.5px; background: transparent; color: #fff; font-weight: 600; } 
+	.aboutus { font-size: 35px;  }  
+	.footerLogo { text-align:center; border-top: solid 1px #555; padding-top: 20px; margin-top: 20px; }
+	.footer { padding: 15px 0px 30px 0px; }
+	.footerLogo h3 { display:none; }
+	.bannerContainer .boxright { display: block; }
+	
+	.editimg { height: auto; min-height: 250px; padding-bottom: 30px; }
+	
+	.promoteBlueBg .promoteText .macro2 { text-align: center; }  
+	.promoteBlueBg .promoteText .macro { text-align: center; }
+	
+	.item .container { padding: 25px 0; max-width: 90%; }
+	
+	.inquiryBtn a img { max-width: 36px; width: 53px; }
+	
+}
+
+@media only screen and (max-width:650px) {
+	/* .inquiryBtn { display: none; } */
+	.view2 { padding: 30px 15px; }
+	.text { margin-top: -50px; margin-bottom: 50px; }
+	.editimg { height: 250px; }
+	.design { margin: 0px 0px; }
+	.pageright { padding: 15px 0px; }
+	.productsList.projectsView h1 { font-size: 20px; margin-top: 5px; }
+	.productsList.projectsView .project_logo p { display: none; }
+	.productsList.projectsView hr { margin-top: 2rem; opacity: 1; }
+	.file { padding: 15px 5px 15px 5px; }
+	.productsList .item { margin-bottom: 30px; }
+	.edit { height: auto; min-height: 250px; }
+	
+	.menu ul li { font-size: 16px; }
+	.menu ul li a { font-size: 16px; }
+	
+	.copyrightDiv { padding-bottom: 70px; }
+	.section2 { top: 15px; }
+	
+}
+
+@media only screen and (max-width:575px) {
+	.file { padding: 10px 0px 10px 5px; }
+	.macro2{font-size:28px; line-height: 32px;}
+	.footer_box p { padding-right: 35px; }
+	.shopLicences span{ display: block; }
+	.shopLicences { padding-top: 0px; }
+	.shopLicences .footer_box h3 { margin-top: 10px; margin-bottom: 15px; }
+	.open { padding: 0px; padding-top: 7px; }
+	.boxbottom .textright { margin-top: 0px; }
+	.top2 { height: 350px; }
+	.top { display: block; width: 100%; padding: 12px 0px; }
+	
+	
+	.footerLogo p.addressOfficehead { padding-right: 0px; margin-top: 10px; margin-bottom: 10px; }
+	.footerLogo img { margin-top: 10px; }
+	.file { width: auto; }
+	
+}
+
+
+@media only screen and (max-width:410px) {
+	.inMobileShow { margin:0px; width: 100%; border-top: solid 1px #f5f5f5; }
+	.inMobileShow .file2 { line-height: 36px; text-align: center; padding: 10px 0; }
+	
+}
+
+
+@media only screen and (max-width:367px) {
+	.boxleft{margin-bottom:25px; padding:20px 45px;}
+	.file{width:235px; padding:10px;}
+}
+
+
